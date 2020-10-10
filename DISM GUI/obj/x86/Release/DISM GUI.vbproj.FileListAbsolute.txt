@@ -1,0 +1,14 @@
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\bin\Release\DISM GUI.exe.config
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\bin\Release\DISM GUI.exe
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\bin\Release\DISM GUI.pdb
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\bin\Release\DISM GUI.xml
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Release\DISM_GUI.frmAbout.resources
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Release\DISM_GUI.frmMain.resources
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Release\DISM_GUI.frmProgress.resources
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Release\DISM_GUI.Resources.resources
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Release\DISM GUI.vbproj.GenerateResource.cache
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Release\DISM GUI.vbproj.CoreCompileInputs.cache
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Release\DISM GUI.exe
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Release\DISM GUI.xml
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Release\DISM GUI.pdb
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Release\DISM GUI.vbprojAssemblyReference.cache

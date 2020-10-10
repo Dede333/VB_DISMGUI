@@ -1,0 +1,13 @@
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\bin\Debug\DISM GUI.exe.config
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\bin\Debug\DISM GUI.exe
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\bin\Debug\DISM GUI.pdb
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\bin\Debug\DISM GUI.xml
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Debug\DISM_GUI.frmAbout.resources
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Debug\DISM_GUI.frmMain.resources
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Debug\DISM_GUI.frmProgress.resources
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Debug\DISM_GUI.Resources.resources
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Debug\DISM GUI.vbproj.GenerateResource.cache
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Debug\DISM GUI.vbproj.CoreCompileInputs.cache
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Debug\DISM GUI.exe
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Debug\DISM GUI.xml
+C:\temp\DISMGUI-4.0\4.0\DISM GUI\obj\x86\Debug\DISM GUI.pdb
