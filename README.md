@@ -6,7 +6,7 @@ Syntax of Dism commands are displayed on gui console before call dism, it's more
 Youtube:
 https://www.youtube.com/@DidierDupont-nk4vp
 
-Functionality:
+Features:
 - Mount / Unmount image Management: WIM, VHD, VHDX, FFU (just can explore ESD informations)
   (can reused persist mount image from windows registry keys)
 - Driver Management
