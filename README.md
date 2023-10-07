@@ -8,7 +8,7 @@ https://www.youtube.com/@DidierDupont-nk4vp
 
 Features:
 - Mount / Unmount image Management: WIM, VHD, VHDX, FFU (just can explore ESD informations)
-  (can reused persist mount image from windows registry keys)
+- can reused persist mount images from windows registry keys
 - Driver Management
 - Package Management
 - Feature Management
