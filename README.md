@@ -1,4 +1,3 @@
-[Win11_23H2_22631.3737_Dism_embedded_10.0.22621.2792_Dism.log](https://github.com/user-attachments/files/15859427/Win11_23H2_22631.3737_Dism_embedded_10.0.22621.2792_Dism.log)# DISMGUI-4
 This is modified version of DISMGUI-4 version VB from MikeCel79 sources.
 
 Syntax of Dism commands are displayed on gui console before call dism, it's more easy to check the potential error in arguments string !.
