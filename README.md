@@ -63,7 +63,7 @@ Somes captures in environment Win11 23H2 22631.3737 with Dism embedded 10.0.2262
 
 
 
-Somes captures in environment Win11 23H2 22631.3737 with ADK11 Dism embedded 10.0.26100.1:
+Somes captures in environment Win11 23H2 22631.3737 with ADK11 Dism version 10.0.26100.1:
 
 ![Capt1](https://github.com/Dede333/VB_DISMGUI/assets/61848651/f8ded113-8e83-42ad-948d-d6d0ae3611bc)
 
