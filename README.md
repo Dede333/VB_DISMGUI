@@ -14,14 +14,14 @@ Features:
 - Edition Servicing
 - Unattended Servicing
 - Application Servicing
-- Capture Wim Image
-- Apply Wim / Swm Image
+- Capture Wim Image (normaly, you must use WinPE environment)
+- Apply Wim / Swm Image (normaly, you must use WinPE environment)
 - Export Image
 - Languages And International Servicing
 - Export Driver
 - Split Image
-- Capture Ffu Image
-- Apply Ffu / Sfu Image
+- Capture Ffu Image (normaly, you must use WinPE environment)
+- Apply Ffu / Sfu Image (normaly, you must use WinPE environment)
 - Split Ffu Image (actually there is a bug with this function)
 - Default Application Association Servicing
 - Capabilities Package Servicing
