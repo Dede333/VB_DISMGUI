@@ -26,9 +26,9 @@ Features:
 - Default Application Association Servicing
 - Capabilities Package Servicing
 - Cleanup Image
-- Diskpart WinPE
-- Custom WinPE
-- Create Disk VHD / VHDX
+- Automate WimPE creation: Diskpart WinPE, generate WinPE x86 / AMD64, make winpe.iso
+- Custom WinPE: language, features and special scripts from microsoft documentation
+- Create Disk VHD / VHDX and deploy WinPE on it for example
 - Debloating
 - Backup WindowsApps
 - Oscdimg (for create ISO DVD)
