@@ -26,7 +26,7 @@ Features:
 - Default Application Association Servicing
 - Capabilities Package Servicing
 - Cleanup Image
-- Automate WimPE creation: Diskpart WinPE, generate WinPE x86 / AMD64, make winpe.iso
+- Automate WimPE creation: Diskpart WinPE, generate WinPE x86 / AMD64, make winpe.iso, add special version of Dism-Gui powershell Light
 - Custom WinPE: language, features and special scripts from microsoft documentation
 - Create Disk VHD / VHDX and deploy WinPE on it for example
 - Debloating
