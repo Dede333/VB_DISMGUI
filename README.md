@@ -31,7 +31,7 @@ Features:
 - Create Disk VHD / VHDX and deploy WinPE on it for example
 - Debloating
 - Backup WindowsApps
-- Oscdimg (for create ISO DVD)
+- Oscdimg (for create ISO DVD, legacy MBR and UEFI compatible), regenerate customize ISO DVD
 
 Somes captures in environment Win11 23H2 22631.3737 with Dism embedded 10.0.22621.2792:
 
